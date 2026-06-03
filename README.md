@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go" />
   <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" />
-  <!-- <img width="6" /> -->
+  <img width="6" />
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
   <!-- <img width="6" /> -->
@@ -33,10 +33,8 @@
   <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" title="Maven" />
   <!-- <img width="6" /> -->
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" title="Laravel" />
-  <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=apollo" height="40" alt="Apollo GraphQL" title="Apollo GraphQL" />
-  <!-- <img width="6" /> -->
+  <img width="6" />
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
   <!-- <img width="6" /> -->
@@ -45,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" title="Angular" />
   <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <!-- <img width="6" /> -->
+  <img width="6" />
   <!-- Databases & Messaging -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
   <!-- <img width="6" /> -->
@@ -58,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" title="Kafka" />
   <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" title="RabbitMQ" />
-  <!-- <img width="6" /> -->
+  <img width="6" />
   <!-- Infrastructure & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />
   <!-- <img width="6" /> -->
@@ -75,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />
   <!-- <img width="6" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="ArgoCD" title="ArgoCD" />
-  <!-- <img width="6" /> -->
+  <img width="6" />
   <!-- CI/CD & Tooling -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
   <!-- <img width="6" /> -->
