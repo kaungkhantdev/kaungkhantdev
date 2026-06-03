@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" height="40" />
 
-###
-
-<h3 align="left">About me</h3>
+<h3 align="left">Hi there! I'm Kaung Khant Zaw</h1>
 
 ###
 
