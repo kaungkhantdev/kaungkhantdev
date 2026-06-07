@@ -88,6 +88,6 @@
 
 ###
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kaungkhantzawdev.kaungkhantzawdev&left_text=visitors&left_color=%230d1117&right_color=%23a80032&format=true&logo=github" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kaungkhantzawdev.kaungkhantzawdev&left_text=visitors&left_color=%230d1117&right_color=%23ff0066&format=true&logo=github" alt="visitor badge"/>
 
 ###
