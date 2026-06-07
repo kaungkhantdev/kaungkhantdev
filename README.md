@@ -79,6 +79,8 @@
   <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" />
   <!-- <img width="6" /> -->
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
+  <!-- <img width="6" /> -->
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" title="Grafana" />
   <!-- <img width="6" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains" title="JetBrains" />
